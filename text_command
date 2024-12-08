@@ -1,0 +1,21 @@
+composer create-project laravel/laravel Testmonitor
+
+php artisan serve
+http://127.0.0.1:8000
+
+npm install
+
+npm install vue vue-loader
+
+npm i @vitejs/plugin-vue
+
+php artisan serve
+
+-------------------------------------------------------------
+echo "# minipos22" >> README.md
+git init
+git add README.md
+git commit -m "update add text keyshortcut"
+git branch -M main
+git remote add origin https://github.com/Maxb44-ux/minipos22.git
+git push -u origin main
